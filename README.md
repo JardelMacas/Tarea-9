@@ -6,6 +6,7 @@ AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
 **1.OBJETIVOS**
 
 Objetivos Generales
+
 *
 *
 Objetivos Especificos
@@ -17,9 +18,12 @@ Objetivos Especificos
 
 **3. EXPLICACION Y RESOLUCION DE EJERCICIOS Y PROBLEMAS**
 
+
 **CAPITULO 23**
 
+
 **CAPITULO 24**
+
 
 **4 VIDEO**
 
