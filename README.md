@@ -52,10 +52,14 @@ a. VL b. Eg
 15 . Para cada circuito de la figura 23-75, determine Z T.
 
 ![image](https://user-images.githubusercontent.com/84453441/132381300-6455bd46-5d56-4c2f-915f-bb17d497635b.png)
+![15](https://user-images.githubusercontent.com/84453441/132383792-47183ca6-e613-47a9-acc1-8b63d99d755f.png)
+![image](https://user-images.githubusercontent.com/84453441/132383813-14422d20-c34c-4794-a076-edfc48db9f1c.png)
+![15-1](https://user-images.githubusercontent.com/84453441/132383828-adcc5220-f86d-4000-b24d-afe4b1c5a1dd.png)
 
 **23-4 Especificaciones del transformador de potencia**
 
 17 . Un transformador tiene una especificación de voltaje primario de 7.2 kV, a  = 0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?
+![17](https://user-images.githubusercontent.com/84453441/132383861-31f9be95-eab9-4c5e-bab7-60711bb0ef9d.png)
 
 **23-5 Aplicaciones del transformador**
 
@@ -64,12 +68,16 @@ a. VL b. Eg
 a. I1, b. I2, c. IN, d. Ip
 
 ![image](https://user-images.githubusercontent.com/84453441/132381536-fccba37d-d343-4bec-ad6a-2d0e2f373a0c.png)
+![19](https://user-images.githubusercontent.com/84453441/132383919-7f96b464-c03c-4b00-a229-32fd12d40b0a.png)
 
 21 . Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ohm maneja una bocina de 4 Ohm a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
+![21](https://user-images.githubusercontent.com/84453441/132383967-b2b1146b-2bf5-4097-9df4-514804719f17.png)
+![21-1](https://user-images.githubusercontent.com/84453441/132383993-219b65f4-39a6-4b71-a9f8-c36d914db202.png)
 
 23 . Para la figura 23-30 (a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4) Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
 ![image](https://user-images.githubusercontent.com/84453441/132381626-fd9a33ca-2555-49a9-a739-f391dd32b6e5.png)
+![23](https://user-images.githubusercontent.com/84453441/132384040-16ed28ec-328f-468a-a740-55dd91d5457d.png)
 
 **23-6 Transformadores de núcleo de hierro prácticos**
 
@@ -80,10 +88,14 @@ a. Dibuje el circuito equivalente.
 b. Determine Ig, IL, y VL.
 
 ![image](https://user-images.githubusercontent.com/84453441/132381743-19377ad9-5f37-4bdf-b1c4-54b8dd6f7fe5.png)
+![25](https://user-images.githubusercontent.com/84453441/132384083-6e3424fd-7c20-45ad-8f37-6bdd6c78929c.png)
+![image](https://user-images.githubusercontent.com/84453441/132384098-c37dbaae-af42-45eb-ac49-623835c50d82.png)
+![25-1](https://user-images.githubusercontent.com/84453441/132384115-426bc9bc-d199-409d-995d-2981b61b9756.png)
+![25-2](https://user-images.githubusercontent.com/84453441/132384138-5961a135-af73-4d14-9000-cb58b6c6695a.png)
 
 27. Un transformador que entrega Psal = 48 kW tiene una pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
 
-
+![27](https://user-images.githubusercontent.com/84453441/132384171-fafb4541-c55a-4df1-ab56-f1521d94b776.png)
 
 35. Para el circuito de la figura 23-80, determine LT.
 
