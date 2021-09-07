@@ -1,7 +1,7 @@
 # Tarea-9
 #INFORME TAREA 9
 
-AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
+AUTORES: JERSON CHAMBA - JARDEL MACAS - EDWIN MONTENEGRO
 
 **1.OBJETIVOS**
 
@@ -165,6 +165,59 @@ El voltaje de línea es de 240 volts y Vab se toma como referencia.
 a. Encuentre las otras corrientes de fase.
 b. Encuentre las corrientes de línea.
 c. Encuentre la resistencia R y la capacitancia C de la carga.
+
+**24-4 Ejemplos**
+
+21 . Para la figura 24-49, Van = 120 V < 0°. Dibuje el equivalente de una sola fase y:
+
+a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
+
+b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/84453441/132385100-2693f152-928a-422e-82c2-5ecacaf96127.png)
+
+23 . Para la figura 24-48, EAN 120 = V < -10°. Encuentre la corriente de línea con el método equivalente de una sola fase.
+
+![image](https://user-images.githubusercontent.com/84453441/132385194-e1124c76-779d-4504-8cbd-35f597b6e337.png)
+
+25 . Para la figura 24-48, suponga que las líneas tienen una impedancia Z línea de 0.15 Ohm + j0.25 Ohm y EAN = 120 V < 0°. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/84453441/132385325-cd8af9fe-cde5-4007-bc4c-92d901cdf804.png)
+
+27 . Para el circuito de la figura 24-49, suponga que Z línea = 0.15 Ohm + j0.25 Ohm y Vab = 600 V < 30°. Determine EAB.
+
+![image](https://user-images.githubusercontent.com/84453441/132385407-ac12081b-957b-4045-90d0-7936ba78b2d4.png)
+
+29 . Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Va ’b ’ = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/84453441/132385491-86b1496d-383b-4443-bd69-cc0d70e6852b.png)
+
+31 . Para la figura 24-21(a), ZY = 15 Ω + j20 Ω, ZΔ = 9 Ω - j12 Ω, Z línea = 0.1 Ω + j0.1 Ω, e I a ’b ’ = 40 A∠73. 13°. Encuentre el voltaje de fase Y Van, magnitud y ángulo. 
+
+![image](https://user-images.githubusercontent.com/84453441/132385611-d925733a-28a4-474b-99cb-3ab4781dd709.png)
+
+**24-5 Potencia en sistemas balanceados**
+
+33 . Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.
+
+![image](https://user-images.githubusercontent.com/84453441/132385740-cc3cef04-d66b-4287-9a2e-e93bcf7b6802.png)
+
+Nuevo Circuito:
+
+![image](https://user-images.githubusercontent.com/84453441/132385812-9045274f-b2b5-40d0-bd09-0408b29bb8dc.png)
+
+35 . Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34. 
+
+![image](https://user-images.githubusercontent.com/84453441/132385894-ae5ad2b7-4c8f-4967-8619-dff99589a5a8.png)
+
+Nuevo Circuito:
+
+![image](https://user-images.githubusercontent.com/84453441/132385943-7017c6c5-7b67-44b8-a950-c40962f6523d.png)
+
+37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
+
+![image](https://user-images.githubusercontent.com/84453441/132386010-91f0ab4a-aece-47bd-bd7e-d9f1a461f6e0.png)
+
 
 **4 VIDEO**
 
