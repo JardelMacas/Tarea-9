@@ -47,6 +47,44 @@ a. VL b. Eg
 
 13 Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp=(62.5-j125)ohm?
 
+**23-3 Impedancia reflejada**
+
+15 . Para cada circuito de la figura 23-75, determine Z T.
+
+![image](https://user-images.githubusercontent.com/84453441/132381300-6455bd46-5d56-4c2f-915f-bb17d497635b.png)
+
+**23-4 Especificaciones del transformador de potencia**
+
+17 . Un transformador tiene una especificación de voltaje primario de 7.2 kV, a  = 0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?
+
+**23-5 Aplicaciones del transformador**
+
+19 . El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es un horno de 2400 W con Fp = 1.0, determine: 
+
+a. I1, b. I2, c. IN, d. Ip
+
+![image](https://user-images.githubusercontent.com/84453441/132381536-fccba37d-d343-4bec-ad6a-2d0e2f373a0c.png)
+
+21 . Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ohm maneja una bocina de 4 Ohm a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
+
+23. Para la figura 23-30 (a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4) Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
+
+![image](https://user-images.githubusercontent.com/84453441/132381626-fd9a33ca-2555-49a9-a739-f391dd32b6e5.png)
+
+**23-6 Transformadores de núcleo de hierro prácticos**
+
+25 . Para la figura 23-77, Eg = 1220 V∠0°.
+
+a. Dibuje el circuito equivalente.
+
+b. Determine Ig, IL, y VL.
+
+![image](https://user-images.githubusercontent.com/84453441/132381743-19377ad9-5f37-4bdf-b1c4-54b8dd6f7fe5.png)
+
+27. Un transformador que entrega Psal = 48 kW tiene una pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+
+
+
 35. Para el circuito de la figura 23-80, determine LT.
 
 ![image](https://user-images.githubusercontent.com/84357979/132300440-4a28ec84-b509-4ae8-8717-66f4934b1eab.png)
