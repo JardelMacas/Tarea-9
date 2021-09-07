@@ -47,6 +47,32 @@ a. VL b. Eg
 
 13 Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp=(62.5-j125)ohm?
 
+35. Para el circuito de la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/84357979/132300440-4a28ec84-b509-4ae8-8717-66f4934b1eab.png)
+
+![imagen5](https://user-images.githubusercontent.com/84357979/132300553-18904941-7fe1-476a-bf2f-75f86a1c0b4a.png)
+
+37. Los Inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f=60 Hz, ¿Cuál es la corriente de la fuente?
+
+![image](https://user-images.githubusercontent.com/84357979/132300578-9498b43f-e0f7-48d8-b655-3da2ba8c1478.png)
+
+![imagen6](https://user-images.githubusercontent.com/84357979/132300662-cd4fdd3d-b926-4581-8736-4dbcd96e62f5.png)
+
+![imagen7](https://user-images.githubusercontent.com/84357979/132300736-72d77737-58bc-4226-905e-bcde46e21734.png)
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla
+
+![image](https://user-images.githubusercontent.com/84357979/132300774-dc61acc8-2349-486b-a6fb-ac4a3a1623ef.png)
+
+![imagen8](https://user-images.githubusercontent.com/84357979/132300853-8ec15d81-027c-4e73-bcc4-b00d362c1c9c.png)
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante)
+
+![image](https://user-images.githubusercontent.com/84357979/132300888-a12666f4-2224-4b20-bb34-a40299f80437.png)
+
+![imagen9](https://user-images.githubusercontent.com/84357979/132300946-8ffbcee7-0b7a-48dc-855e-0eae1adcedb2.png)
+
 
 **CAPITULO 24**
 
