@@ -67,7 +67,7 @@ a. I1, b. I2, c. IN, d. Ip
 
 21 . Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ohm maneja una bocina de 4 Ohm a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
-23. Para la figura 23-30 (a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4) Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
+23 . Para la figura 23-30 (a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4) Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
 ![image](https://user-images.githubusercontent.com/84453441/132381626-fd9a33ca-2555-49a9-a739-f391dd32b6e5.png)
 
