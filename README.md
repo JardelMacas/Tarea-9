@@ -143,33 +143,42 @@ en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustra
 cambie la impedancia de carga de 12ohma 15ohm ∠30 y para EAA=120 V∠0,haga lo siguiente:
 a. Calcule las corrientes IA, IB e IC.
 b. Sume las corrientes. ¿Se cumple IA+IB+IC=0?
+![Screenshot_20210908-075100_Drive](https://user-images.githubusercontent.com/86451564/132512504-6c9ec19c-7c08-40a3-bd56-5e86b769c1a6.jpg)
 
 3 Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el cir-
 cuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
+![Screenshot_20210908-075116_Drive](https://user-images.githubusercontent.com/86451564/132512569-45b6c80a-f79f-4205-aa06-e92cbdb7e5f9.jpg)
 
 5 Para las cargas de la figura 24-4, Vbc=208 V∠75.
 a. Determine los voltajes línea a línea Vab y Vca.
 b. Determine los voltajes de fase.
 c. Dibuje el diagrama fasorial.
+![Screenshot_20210908-075135_Drive](https://user-images.githubusercontent.com/86451564/132512665-83b70e30-481f-43fa-ad63-8176ed839e43.jpg)
 
 7 Para la carga de la figura 24-47, Van=347 V∠15. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+![Screenshot_20210908-075343_Drive](https://user-images.githubusercontent.com/86451564/132513046-ad66b832-6f30-4fd5-92c3-a85b35dd4036.jpg)
 
 9 Una carga Y balanceada tiene una impedancia de Zan=14.7 ∠16. 
 Si Vcn=120 V∠160, determine todas las corrientes de línea.
+![Screenshot_20210908-075416_Drive](https://user-images.githubusercontent.com/86451564/132513134-b0ad8bd5-55cf-4886-ab0e-03f45c384adf.jpg)
 
 11 Para el circuito de la figura 24-48, Vab=480 V∠0. Encuentre la fase y las
 corrientes de línea.
+![Screenshot_20210908-075432_Drive](https://user-images.githubusercontent.com/86451564/132513217-434ca483-4b2d-4057-ba2c-c5283161de19.jpg)
 
 13 Para el circuito de la figura 24-48, si Iab=10 A∠21, determine todos 
 los voltajes de línea.
+![Screenshot_20210908-075711_Drive](https://user-images.githubusercontent.com/86451564/132513671-9a2c920f-7682-4794-b38e-acb7b447b8a0.jpg)
 
 15 Una carga Y balanceada tiene una impedancia de fase de 24 ∠33 y un vol-
 taje línea a línea de 600 V. Tome Van como referencia y determine todas las
 corrientes de línea.
+![Screenshot_20210908-075729_Drive](https://user-images.githubusercontent.com/86451564/132513779-1ceb2733-536e-4ad8-a497-9c2553875dba.jpg)
 
 17 a. Para cierta carga Y balanceada, Vab=208 V∠30, Ia=24 A∠40 y 
 f=60 Hz. Determine la carga (R y L o C).
 b. Repita el inciso (a) si Vbc=208 V∠30 e Ic=12 A∠140.
+![Screenshot_20210908-075748_Drive](https://user-images.githubusercontent.com/86451564/132513954-f7821cb7-4fac-4800-be76-17bb811d102d.jpg)
 
 19 Una carga 
  balanceada a 60 Hz tiene una corriente de Ibc=4.5 A∠85. 
@@ -177,6 +186,7 @@ El voltaje de línea es de 240 volts y Vab se toma como referencia.
 a. Encuentre las otras corrientes de fase.
 b. Encuentre las corrientes de línea.
 c. Encuentre la resistencia R y la capacitancia C de la carga.
+![Screenshot_20210908-075804_Drive](https://user-images.githubusercontent.com/86451564/132514019-09fe82b1-fb9a-4157-b390-188b9f757d44.jpg)
 
 **24-4 Ejemplos**
 
