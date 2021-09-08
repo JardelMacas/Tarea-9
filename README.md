@@ -362,7 +362,9 @@ Link del Video: https://youtu.be/KAiy7GGknX4
 **5. CONCLUSIONES**
 
 * Los sistemas balanceados en los circuitos trifasicos nos permiten determinar de manera instantanea todos los  voltajes y corrientes de linea y de fuente presentes en dicho circuito.
+
 * Los transformadores nos permiten  manipular las ondas de voltajes y corrientes, dandole asi muchas aplicaciones en la industria del audio o las comunicaciones en general.
+
 *Los voltajes y corrientes dentro de los transformadores tienen la misma forma senoidal y varian unicamente en su fase, gracias al uso de fasores el analisis de circuitos con corriente alterna se lo puede hacer directamente como si estuvieramos en circuitos de corriente directa.
 
 **6. BIBLIOGRAFIA**
