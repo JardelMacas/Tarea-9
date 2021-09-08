@@ -267,6 +267,88 @@ Nuevo Circuito:
 ![image](https://user-images.githubusercontent.com/84453441/132386010-91f0ab4a-aece-47bd-bd7e-d9f1a461f6e0.png)
 ![37](https://user-images.githubusercontent.com/84453441/132393991-a73d9138-f27b-43b3-bb8b-f8066424ac35.png)
 
+43. V_Ab=208 V para una carga balanceada Y, P_T=1200 W, y Q_T=750 VAR/ind. Seleccione V_an como referencia y determine I_a (Use el triángulo de potencia)
+
+![grafico4](https://user-images.githubusercontent.com/84357979/132527968-00f7b977-5251-4bf4-ab9a-334038053932.png)
+
+45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C=120 μF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+
+![image](https://user-images.githubusercontent.com/84357979/132527997-7e8f5d7b-a825-4968-a3c5-3f71b08e0fa9.png)
+
+![grafico5](https://user-images.githubusercontent.com/84357979/132528080-8c43a55f-4eff-41b0-bbb8-f877a350bdd4.png)
+
+47. Para la figura 24-47, el voltaje de fase del generador es de 120 Volts.
+
+![image](https://user-images.githubusercontent.com/84357979/132528142-5d7fb955-f9d8-4d76-bf71-c744ae5f05f1.png)
+
+a. Dibuje tres vatímetros correctamente en el circuito 
+b. Calcule la lectura de cada uno
+c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
+
+a.
+![image](https://user-images.githubusercontent.com/84357979/132528191-4aba1990-b80b-495a-809f-930de460f8e3.png)
+
+![grafico6](https://user-images.githubusercontent.com/84357979/132528267-592c0051-9b6a-4250-995a-17e1be527aca.png)
+
+49. Para el circuito de la figura 24-56, V_ab=208 V <30º.
+a. Determine la magnitud y ángulo de las corrientes.
+b. Determine la potencia por fase y la potencia total, PT
+c. Calcule las lecturas de cada vatímetro.
+d. Sume las lecturas de los medidores y compare los resultados para PT. de (b).
+
+![image](https://user-images.githubusercontent.com/84357979/132528319-2c010bbb-3bc7-4050-8b53-8dc25f61b975.png)
+
+![grafico7](https://user-images.githubusercontent.com/84357979/132528429-6297af29-f06c-48a3-a728-591ab304a14b.png)
+
+![grafico8](https://user-images.githubusercontent.com/84357979/132528436-d81da5bf-be99-449c-97a1-369f84917d31.png)
+
+![grafico9](https://user-images.githubusercontent.com/84357979/132528544-d8fdd32f-df31-46a4-a71c-11172e8ffe48.png)
+
+51. Considere el circuito de la figura 24-56.
+a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.
+b. En el problema 49 se determinaron las lecturas del vatímetro en P_H=1164 W y P_l=870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los incisos (a).
+
+![image](https://user-images.githubusercontent.com/84357979/132528583-0c43259d-20a2-4819-81dd-e08003a50a3f.png)
+
+![grafico10](https://user-images.githubusercontent.com/84357979/132528672-c729d704-1b8e-4643-a2d0-bfebb895bfe5.png)
+
+
+24-7 Cargas Balanceadas
+53. Para la figura 24-58, R_ab=60 Ω,Z_bc=80 Ω+j60Ω. Calcule 
+a. Las corrientes de fase y de línea
+b. La potencia en cada fase y la potencia total.
+
+![image](https://user-images.githubusercontent.com/84357979/132528713-baff5a11-8f75-4605-8665-d5cdb04360b5.png)
+
+![grafico11](https://user-images.githubusercontent.com/84357979/132528799-ee222da4-ad3f-491f-8a4b-4972f455f953.png)
+
+![grafico12](https://user-images.githubusercontent.com/84357979/132528877-1aa18452-1a0a-4588-8e75-3dee71f60e18.png)
+
+55. Para la figura 24-59, calcule lo siguiente:
+a. Las corrientes de línea, sus magnitudes y ángulos
+b. La corriente en el neutro.
+c. La potencia en cada fase.
+d. Potencia total en la carga.
+
+![image](https://user-images.githubusercontent.com/84357979/132528917-d55dadb6-7ed1-4a95-920f-dacf74066e03.png)
+
+
+![grafico13](https://user-images.githubusercontent.com/84357979/132529003-0a2c4b93-48b5-41d9-8a39-91dd75181c68.png)
+
+
+![grafico14](https://user-images.githubusercontent.com/84357979/132529097-7a2626d1-d3f3-43fa-af36-41cfe5e7b19e.png)
+
+
+57. A partir del problema 56, I_a=1.94 A < -0.737º , I_b=4.0 A <-117.7º e I_c=3.57 A <91.4º. Calcule lo siguiente:
+a. Los voltajes en cada fase de la carga.
+b. El voltaje entre el neutro y la carga y el neutro del generador.
+
+![image](https://user-images.githubusercontent.com/84357979/132529152-325d1d89-c95a-410c-86ae-2be2a49c630a.png)
+
+![grafico15](https://user-images.githubusercontent.com/84357979/132529323-c8e2bb81-8af2-4d7c-85c8-66edba3a23c5.png)
+
+
+
 **4 VIDEO**
 
 Link del Video:  https://youtu.be/9m30monO0yY
