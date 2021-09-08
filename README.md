@@ -30,6 +30,7 @@ Objetivos Especificos
 
 1 Para los transformadores de la figura 23-71, dibuje las formas de onda que
 faltan.
+![Screenshot_20210908-074033_Drive](https://user-images.githubusercontent.com/86451564/132510987-195f79ff-fc4a-4807-b044-d05f03414c98.jpg)
 
 3 Un transformador ideal tiene Np=1000 vueltas y Ns=4000 vueltas.
 a. ¿El voltaje se eleva o se reduce?
@@ -37,20 +38,26 @@ b. Si es=100 sen qt, ¿qué valor tiene ep cuando se devana como en la figura 23
 c. Si Es=24 volts, ¿qué valor tiene Ep?
 d. Si Ep=24 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)?
 e. Si Ep=800 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?
+![Screenshot_20210908-074205_Drive](https://user-images.githubusercontent.com/86451564/132511164-984d61a9-ae33-4bc7-bf19-2f24736ecb2d.jpg)
 
 5 Para la figura 23-72, determine las expresiones para v1, v2 y v3.
+![Screenshot_20210908-074306_Drive](https://user-images.githubusercontent.com/86451564/132511316-a4443ad3-e1a4-46bc-9e3e-ccd9267711fa.jpg)
 
 7 Si, para la figura 23-73, Eg=240 V∠0, a=0.5, e Ig=2 A∠20, determine
 lo siguiente:
 a. IL b. VL c. ZL
+![Screenshot_20210908-074406_Drive](https://user-images.githubusercontent.com/86451564/132511424-54e2b00c-66c2-448a-961f-5afede7e2b21.jpg)
 
 9 Si, para la figura 23-73, a=4, Ig=4 A∠30, y ZL=6-j8 , determine
 lo siguiente:
 a. VL b. Eg
+![Screenshot_20210908-074453_Drive](https://user-images.githubusercontent.com/86451564/132511573-bda6d58d-d549-4c33-93cd-a2c96e15068c.jpg)
 
 11 Para cada circuito de la figura 23-74, determine Zp.
+![Screenshot_20210908-074514_Drive](https://user-images.githubusercontent.com/86451564/132511650-e6bdcdf0-160a-4c88-8380-2ea7d1d22e73.jpg)
 
 13 Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp=(62.5-j125)ohm?
+![Screenshot_20210908-074639_Drive](https://user-images.githubusercontent.com/86451564/132511793-c734a97f-e696-43a3-b3a5-1cf6b4a582a6.jpg)
 
 **23-3 Impedancia reflejada**
 
