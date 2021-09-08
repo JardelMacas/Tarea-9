@@ -314,6 +314,7 @@ b. En el problema 49 se determinaron las lecturas del vatímetro en P_H=1164 W y
 
 
 24-7 Cargas Balanceadas
+
 53. Para la figura 24-58, R_ab=60 Ω,Z_bc=80 Ω+j60Ω. Calcule 
 a. Las corrientes de fase y de línea
 b. La potencia en cada fase y la potencia total.
