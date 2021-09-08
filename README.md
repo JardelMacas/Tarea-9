@@ -352,9 +352,11 @@ b. El voltaje entre el neutro y la carga y el neutro del generador.
 
 **4 VIDEO**
 
-Link del Video:  https://youtu.be/9m30monO0yY
+Link del Video: https://youtu.be/KAiy7GGknX4
 
-[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 15 y 16](https://img.youtube.com/vi/9m30monO0yY/0.jpg)](https://www.youtube.com/watch?v=9m30monO0yY)
+.[![Circuitos Eléctricos || Guía de Laboratorio 8|| Características de la Onda Senoidal](https://img.youtube.com/vi/KAiy7GGknX4/0.jpg)](https://youtu.be/KAiy7GGknX4)
+
+
 
 
 **5. CONCLUSIONES**
