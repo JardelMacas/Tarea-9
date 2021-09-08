@@ -18,6 +18,11 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
+**CAPITULO 23**
+
+**CAPITULO 24**
+![RESUMEN CAP 24](https://user-images.githubusercontent.com/84453441/132453209-960f0d9f-a8c6-4867-9612-c6946d7746e6.png)
+
 **3. EXPLICACION Y RESOLUCION DE EJERCICIOS Y PROBLEMAS**
 
 
