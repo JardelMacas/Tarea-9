@@ -18,6 +18,7 @@ Objetivos Especificos
 **2.MARCO TEORICO**
 
 **CAPITULO 23**
+![222222_page-0001](https://user-images.githubusercontent.com/86451564/132525038-4f2ec349-70bd-45b4-a72f-0c723c75efe2.jpg)
 
 **CAPITULO 24**
 ![RESUMEN CAP 24](https://user-images.githubusercontent.com/84453441/132453209-960f0d9f-a8c6-4867-9612-c6946d7746e6.png)
